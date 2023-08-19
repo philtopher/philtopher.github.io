@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tochi! <br/><a href="https://github.com/philtipher.github.io">a Cloud Engineer with Power Platform Functional Consultant expeirence</a>, <a href="https://www.linkedin.com/in/tochi-u-b20872222/">Developer</a>,<a href="#">YouTuber</a></h1>
 
-<h2>:cloud: Cloud Projects:</h2>
+<img src="AZ900-Logo.png" alt="Smiley face" width="150" height="150">
 
 - <b>Planning IPv4 address assignment of over 400 devices at QADev for its UK headquarters in London and three branch offices in Manchester, Glasgow, and Birmingham. </b>
   - [Assigning IP Addresses and Ranges for Subnets in Point to Site Locations](https://github.com/philtopher/Planning-IPv4-Assignments-for-Devices)
