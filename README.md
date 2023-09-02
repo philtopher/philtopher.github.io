@@ -2,6 +2,8 @@
 
 <img src="AZ900-Logo.png" alt="Smiley face" width="150" height="150">
 
+- <b>IoT Data Processing Workflow. </b>
+  - [Building an Efficient AWS IoT Data Processing Workflow](https://github.com/philtopher/Building-an-Efficient-AWS-IoT-Data-Processing-Workflow)
 - <b>Planning IPv4 address assignment of over 400 devices at QADev for its UK headquarters in London and three branch offices in Manchester, Glasgow, and Birmingham. </b>
   - [Assigning IP Addresses and Ranges for Subnets in Point to Site Locations](https://github.com/philtopher/Planning-IPv4-Assignments-for-Devices)
 - <b>Cloud-migration strategy using public cloud solutions. </b>
