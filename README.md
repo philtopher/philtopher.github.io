@@ -5,7 +5,7 @@
 - <b>Planning IPv4 address assignment of over 400 devices at QADev for its UK headquarters in London and three branch offices in Manchester, Glasgow, and Birmingham. </b>
   - [Assigning IP Addresses and Ranges for Subnets in Point to Site Locations](https://github.com/philtopher/Planning-IPv4-Assignments-for-Devices)
 - <b>Cloud-migration strategy using public cloud solutions. </b>
-  - [Comparisons with major cloud providers](https://github.com/philtopher/Cloud-migration-strategy-using-public-cloud-solution)
+  - [Comparisons with major cloud providers](https://github.com/philtopher/Cloud-migration-strategy-using-public-cloud-solution.)
 - <b>Cloud and on premise security plan. </b>
   - [A case study to develop a cloud and on-premise security plan.](https://github.com/philtopher/cloud-and-on-premise-security-plan)
 - <b>Azure Hybrid Security. </b>
