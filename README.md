@@ -23,13 +23,14 @@
 - [A Day in the Life of a Cloud Engineer](#)
 
 
-<h2> 🤳 Meet me on social media:</h2>
+<h2> 🤳 Meet me on social media and my articles:</h2>
 
 [<img align="left" alt="Tochi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Tochi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Tochi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tochi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[medium]: https://medium.com/@t.unamka
 [twitter]: #
 [youtube]: #
 [instagram]: #
