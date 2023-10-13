@@ -31,11 +31,11 @@
 [<img align="left" alt="Tochi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Tochi | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-[medium]: https://medium.com/@t.unamka
+[linkedin]: https://www.linkedin.com/in/tochi-u-b20872222/
 [twitter]: #
 [youtube]: #
 [instagram]: #
-[linkedin]: https://www.linkedin.com/in/tochi-u-b20872222/
+[medium]: https://medium.com/@t.unamka
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
